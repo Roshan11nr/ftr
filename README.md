@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://salmon-river-0f0e76700.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** -https://youtu.be/fIAf8_ri5vA
 
 ## Azure technologies used for Project
 
